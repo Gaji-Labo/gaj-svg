@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="gaji-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 482 35" enable-background="new 0 0 482 35" xml:space="preserve">
+<g>
+  <rect width="35" height="12"/>
+  <rect x="41" width="35" height="12"/>
+  <rect x="81" fill="#E50012" width="12" height="12"/>
+</g>
+<g>
+  <rect x="145" width="35" height="12"/>
+  <rect x="128" fill="#44AF35" width="11" height="12"/>
+</g>
+<g>
+  <rect x="232" width="35" height="12"/>
+  <rect x="215" fill="#1C50A1" width="12" height="12"/>
+  <rect x="273" width="35" height="12"/>
+  <rect x="314" width="34" height="12"/>
+</g>
+<g>
+  <rect x="383" fill="#E50012" width="12" height="12"/>
+  <rect x="401" fill="#44AF35" width="11" height="12"/>
+</g>
+<g>
+  <rect x="52" y="24" width="35" height="11"/>
+  <rect x="35" y="24" fill="#1C50A1" width="11" height="11"/>
+  <rect x="93" y="24" fill="#E50012" width="12" height="11"/>
+  <rect x="110" y="24" fill="#44AF35" width="12" height="11"/>
+</g>
+<g>
+  <rect x="174" y="24" width="35" height="11"/>
+  <rect x="157" y="24" fill="#1C50A1" width="11" height="11"/>
+</g>
+<g>
+  <rect x="244" y="24" width="35" height="11"/>
+  <rect x="285" y="24" fill="#E50012" width="11" height="11"/>
+  <rect x="302" y="24" fill="#44AF35" width="12" height="11"/>
+  <rect x="319" y="24" fill="#1C50A1" width="12" height="11"/>
+</g>
+<g>
+  <rect x="366" y="24" width="35" height="11"/>
+  <rect x="407" y="24" width="34" height="11"/>
+  <rect x="447" y="24" width="35" height="11"/>
+</g>
+</svg>
