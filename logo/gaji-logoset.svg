@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="gaji-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 482 468" enable-background="new 0 0 482 468" xml:space="preserve">
+<path d="M241.463,0C132.11,0,43.468,88.643,43.468,198c0,109.352,88.642,198,197.995,198c109.362,0,198.005-88.647,198.005-198C439.468,88.643,350.825,0,241.463,0z M369,313h-41V209H183v104h-41V209H80v-41h62V66h41v102h21V66h41v102h20V66h42v102h62V313z"/>
+<g>
+  <g>
+    <rect y="433" width="35" height="12"/>
+    <rect x="41" y="433" width="35" height="12"/>
+    <rect x="82" y="433" fill="#E50012" width="11" height="12"/>
+  </g>
+  <g>
+    <rect x="146" y="433" width="35" height="12"/>
+    <rect x="128" y="433" fill="#44AF35" width="12" height="12"/>
+  </g>
+  <g>
+    <rect x="233" y="433" width="35" height="12"/>
+    <rect x="215" y="433" fill="#1C50A1" width="12" height="12"/>
+    <rect x="273" y="433" width="35" height="12"/>
+    <rect x="314" y="433" width="35" height="12"/>
+  </g>
+  <g>
+    <rect x="384" y="433" fill="#E50012" width="11" height="12"/>
+    <rect x="401" y="433" fill="#44AF35" width="12" height="12"/>
+  </g>
+  <g>
+    <rect x="52" y="457" width="35" height="11"/>
+    <rect x="34" y="457" fill="#1C50A1" width="12" height="11"/>
+    <rect x="92" y="457" fill="#E50012" width="12" height="11"/>
+    <rect x="110" y="457" fill="#44AF35" width="11" height="11"/>
+  </g>
+  <g>
+    <rect x="174" y="457" width="35" height="11"/>
+    <rect x="156" y="457" fill="#1C50A1" width="12" height="11"/>
+  </g>
+  <g>
+    <rect x="243" y="457" width="35" height="11"/>
+    <rect x="284" y="457" fill="#E50012" width="12" height="11"/>
+    <rect x="301" y="457" fill="#44AF35" width="12" height="11"/>
+    <rect x="319" y="457" fill="#1C50A1" width="12" height="11"/>
+  </g>
+  <g>
+    <rect x="365" y="457" width="35" height="11"/>
+    <rect x="406" y="457" width="35" height="11"/>
+    <rect x="447" y="457" width="35" height="11"/>
+  </g>
+</g>
+</svg>
